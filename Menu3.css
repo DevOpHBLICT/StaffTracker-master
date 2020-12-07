@@ -1,0 +1,13 @@
+﻿.Menu
+{  
+	background:transparent url(images/blueslate_background.gif) repeat-x;
+    text-align:center;
+    font-size:11px;
+    border: solid 0px #fff !important;
+}
+
+
+.menuhover
+{
+	color:#fff;background:transparent url(images/blueslate_backgroundOVER.gif) no-repeat top center;
+ }
